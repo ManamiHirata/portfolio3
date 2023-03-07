@@ -1,0 +1,40 @@
+ body { 
+ background: linen;
+  color: black; margin-left: 2em;
+   background-image: url(elly063B001_TP_V.jpg2.jpg);
+  background-position: center center;
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-size: cover;
+ background-color: saddlebrown;
+  margin-right: 2em; 
+  margin-top: 2em; 
+  margin-bottom: 2em; }
+ h1 { background: saddlebrown; 
+ color: white;
+ font-size: 2.0em;
+ border-radius: 8px;
+ paddind-left: 10px;
+ padding-top: 10px;
+ padding-bottom: 10px;
+ padding-left: 20px;
+  }
+ h2 { background: rosybrown;
+  color: black;
+  font-size: 1.5em;
+  border-radius: 5px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 15px;
+  text-shadow: 2px 2px 2px #a9a9a9 }
+   }
+ p { line-height: 1.5em; }
+ strong { font-style: oblique;
+  background: wheat; }
+ em { font-style: bolder; }
+ table, td, th { border: 2px solid #8b0000; }
+ 
+ a:link{ color: darkorange;}
+ a:visited{ color: darkorange}
+ a:hover{ color: darkorange; text-decoration: underline;}
+ a:active{ color: yellow;}

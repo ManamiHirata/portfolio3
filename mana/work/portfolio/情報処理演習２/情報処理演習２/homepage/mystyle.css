@@ -1,0 +1,100 @@
+body {
+ background: ivory;
+ color: black;
+ margin-left: 2em;
+ margin-right: 2em; 
+}
+h1 {
+ background: rosybrown;
+ color: white;
+ font-size: 1.5em;
+ border-radius: 8px;
+ padding-left: 10px;
+ padding-top: 15px;
+ padding-bottom: 5px;
+ text-align: center;
+}
+h2 {
+ font-size: 1.2em;
+ text-shadow: 2px 2px 3px #808080;
+}
+h2  img  {
+ box-shadow: 2px 2px 3px #808080;
+}
+p {
+ line-height: 1.5em; 
+}
+em {
+ font-style: normal;
+ font-weight: bold;
+ color: red;
+ background: yellow;
+}
+a {
+ text-decoration: none; 
+}
+a:link {
+ color: darkblue; 
+}
+a:visited {
+ color: black; 
+}
+a:hover {
+ color: crimson;
+ text-decoration: underline; 
+}
+a:active {
+ color: white; 
+}
+p.welcome {
+ text-align: center; 
+}
+p.welcome img {
+ box-shadow: 4px 4px 10px #808080; 
+}
+table, td, th {
+ border: 2px solid darkorange; 
+}
+td, th {
+ padding: 4px; 
+}
+table {
+ border-collapse: collapse; 
+}
+th {
+ background: sandybrown;
+ color: maroon; 
+}
+td {
+ background: #fffaf0; 
+}
+table.photo {
+ text-align: center; 
+}
+.video{
+ position:relative;
+ width:100%;
+ padding-top:50%;
+}
+.video iframe{
+ position:absolute;
+ top:0;
+ left:0;
+ width:100%;
+ max-width:900px;
+ height:100%;
+}
+.map{
+ position:relative;
+ width:100%;
+ padding-top:50%;
+}
+.map iframe{
+ position:absolute;
+ top:0;
+ left:0;
+ width:100%;
+ max-width:900px;
+ height:100%;
+ max-height:600px;
+}

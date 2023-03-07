@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>豆柴、花子の雑記帳</title>
+<style type="text/css">
+{ background: indigo; color: black; margin-left: 2em; margin-right: 2em; margin-top: 2em; }
+h1 { 
+ background: orange;
+ color : white;
+ font-size: 1.5em;
+ border-radius: 8px;
+ padding-left: 10px;
+ padding-top: 10px;
+ padding--bottom: 10px; }
+h2 {
+ font-size: 1.2em;
+ text-shadow: 2px 2px 3px #808080;
+ }
+table, td, th {
+ border: 2px solid darkiorange; 
+ }
+ td, th {
+ padding: 4px;
+ }
+ table {
+ border-collapse: collapse;
+ }
+th {
+ background: #a0522d;
+ color: white;
+ }
+td {
+ background:  #ffffff;
+ }
+p { line-height: 1.5em; }
+em {
+ font-style: normal;
+ font-weight: bold:
+ color: red;
+ background: linear-gradient(transparent 0%, pink 100%); }
+a { text-decoration: none; }
+a:link { color: darkblue; }
+a:visited { color: purple;}
+a:hover { color: darkorange; text-decoration: underline; }
+a:active { color: red; }
+</style>
+</head>
+<body>
+<h1>豆柴、花子の雑記帳</h1>
+<p>今年で3歳を迎えた豆柴の花子。<br>体は小さくても立派な柴犬。普段はクールに振る舞っていますが、ときおり見せる甘えん坊な姿がとっても可愛らしく、日々の疲れを吹き飛ばしてくれます。<br>このホームページでは、そんな花子の毎日を紹介していきます!</p>
+<ul>
+<li><a href="#train">花子、お出かけバッグに緊張気味?</a></li>
+<li><a href="#friends">花子のお友だち</a></li>
+<li><a href="#park">ホームグラウンドは尾久の原公園</a></li>
+</ul>
+<h2 id="train">花子、お出かけバッグに緊張気味?</h2>
+<p>先週、初めて花子と一緒に電車で旅行に行きました。<em>お出かけバッグ初体験</em>の花子は少し緊張している様子。でも、一度もほえずに行儀よく過ごしてくれました。もう、立派な大人ですね。</p>
+<h2 id="friends">花子のお友だち</h2>
+<p>芝生の上を走り回るのが大好きな花子。少し人見知りなところがあるけれど、仲良くなった友だちとなら、体力が尽きるまで遊び続けることも。<br>公園に行くと、いつも「誰かいないかな～」と友だちを探しています。</p>
+<h2 id="park">ホームグラウンドは尾久の原公園</h2>
+<p>花子の一番のお気に入りスポットは、近所にある<a href="http://tokyo-eastpark.com/ogunohara/" target="_brank">尾久の原公園。</a><br>しだれ桜が170本もある有名なお花見スポットですが、花子は桜よりも芝生広場や小川のほうが気になるみたい。遊び慣れた公園で元気いっぱいに走り回るので、帰宅後はたいていお昼寝しています。</p>
+</body>
+</html>
